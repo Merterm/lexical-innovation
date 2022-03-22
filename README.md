@@ -11,16 +11,16 @@ You can check the issues for active to-do items.
 
 ## Lexical Innovation Stats
 These are some statistics from the Photobook Dataset (full):
-2-noun compounding count:4708 (14%)
-3-noun compounding count:1072 (3%)
-4-noun compounding count:202 (1%)
-5-noun compounding count:47 (0.1%)
-6-noun compounding count:99 (0.2%)
-adjective noun count:12275(35%~not all lexical innovation)
-adj noun noun compounding:2981 (8%)
-verb noun count:4471 (13%)
-verb noun noun compounding count:569 (1.6%)
-total utterance count:34903
+* 2-noun compounding count:4708 (14%)
+* 3-noun compounding count:1072 (3%)
+* 4-noun compounding count:202 (1%)
+* 5-noun compounding count:47 (0.1%)
+* 6-noun compounding count:99 (0.2%)
+* adjective noun count:12275(35%~not all lexical innovation)
+* adj noun noun compounding:2981 (8%)
+* verb noun count:4471 (13%)
+* verb noun noun compounding count:569 (1.6%)
+* total utterance count:34903
 
 These are the statistics for the annotated Photobook data (277 samples from train, these are all lexical innovation):
 2-noun compounding count:78 (28%)
